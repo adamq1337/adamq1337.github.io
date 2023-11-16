@@ -1,4 +1,1 @@
-# adamq1337.github.io
-UI for a cap
-Web search: https://adamq1337.github.io
-https://github.com/adamq1337/adamq1337.github.io/blob/main/Fitcheck/index.html
+
